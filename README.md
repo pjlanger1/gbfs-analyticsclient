@@ -5,7 +5,7 @@ gbfs-analyticsclient is an open source python package created to improve the pub
 
 ### Background
 
-GBFS, or General Bikeshare Feed Specification, is a real-time or near real-time specification for public data primarily intended to provide transit advice through consumer-facing applications.
+GBFS, or General Bikeshare Feed Specification, is a real-time or near real-time specification for public data primarily intended to provide transit advice through consumer-facing applications.  GBFS is currently on version 3, but Lyft's feeds are still on the supported (v2.3), so gbfs-analyticsclient only supports up to v2.3 as of now.
  
 I encourage you to read the full documentation [here](https://github.com/MobilityData/gbfs).
 
